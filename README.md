@@ -13,9 +13,8 @@ Passionate developer, specialized in creating applications and designing efficie
   - HTML5, CSS3,
   - Php
 - **Frameworks:**
-- Bootstrap,Tailwind
-  - React  
-  - Vue.js  
+  - Bootstrap,Tailwind
+  - React,Vue.js  
   - Node.js
   - symfony
 - **Tools and technologies:**  
