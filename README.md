@@ -1,6 +1,8 @@
-## 👋 Hello, I'm Rhenard Munongo!
+## Hi there 👋
 
-Passionate developer, specialized in creating applications and designing efficient and aesthetic computer systems. My goal is to transform innovative ideas into concrete solutions that meet user needs.
+I am a full stack developer.
+
+<!--- Passionate developer, specialized in creating applications and designing efficient and aesthetic computer systems. My goal is to transform innovative ideas into concrete solutions that meet user needs.
 
 ## 🌍 About me
 - 🔭 Currently [learning/ ].
