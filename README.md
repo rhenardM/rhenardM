@@ -6,7 +6,7 @@ I am a full stack developer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenardM&layout=compact&theme=tokyonight)
 
-![Followers](https://img.shields.io/github/followers/rhenardM?label=Followers&style=social)
+<!---![Followers](https://img.shields.io/github/followers/rhenardM?label=Followers&style=social)
 
 
 
