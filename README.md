@@ -6,6 +6,9 @@ I am a full stack developer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenardM&layout=compact&theme=tokyonight)
 
+![Followers](https://img.shields.io/github/followers/rhenardM?label=Followers&style=social)
+
+
 
 <!--- Passionate developer, specialized in creating applications and designing efficient and aesthetic computer systems. My goal is to transform innovative ideas into concrete solutions that meet user needs.
 
